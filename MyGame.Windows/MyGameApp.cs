@@ -1,5 +1,3 @@
-using log4net.Core;
-using MyLibrary;
 using Xenko.Engine;
 
 namespace MyGame.Windows

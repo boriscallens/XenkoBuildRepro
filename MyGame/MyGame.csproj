@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="log4net" Version="2.0.8" />
     <PackageReference Include="Xenko.Engine" Version="3.1.0.1-beta01-0430" PrivateAssets="contentfiles;analyzers" />
 
     <PackageReference Include="Xenko.Video" Version="3.1.0.1-beta01-0430" PrivateAssets="contentfiles;analyzers" />
