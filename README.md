@@ -1,5 +1,7 @@
 # Trying to get to the bottom of a project setup problem
 
+*Update 2019-02-09* Indirect nuget reference issue got fixed https://github.com/xenko3d/xenko/issues/365
+
 When trying to use the new nuget based Xenko setup I always run into exceptions.  
 In order to find out what exactly is the issue and hopefully resolve it I created this repo.  
 
