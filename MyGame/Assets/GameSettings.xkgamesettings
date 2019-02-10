@@ -1,9 +1,9 @@
 !GameSettingsAsset
-Id: 707a199b-81ff-45e7-96b3-8caf464e35ef
+Id: 5aa92073-0d82-45db-a71b-2ff3d8a3fc78
 SerializedVersion: {Xenko: 2.1.0.3}
 Tags: []
-DefaultScene: 9ac63999-0bae-43ef-a66d-b199327e161f:MainScene
-GraphicsCompositor: 386f38fd-3a78-4e37-b813-af98a15d5299:GraphicsCompositor
+DefaultScene: f6148c7a-2b9a-46c2-8fea-79b06b289d94:MainScene
+GraphicsCompositor: a676f201-9eb0-4cd4-9878-e8e08e90e478:GraphicsCompositor
 Defaults:
     - !Xenko.Audio.AudioEngineSettings,Xenko.Audio
         HrtfSupport: false
@@ -23,7 +23,7 @@ Defaults:
             DetailSamplingDistance: 6.0
             MaxDetailSamplingError: 1.0
         Groups:
-            -   Id: 0a42713a-2c79-420d-bba7-5ef522413a12
+            -   Id: 5ea785da-0304-4d12-98b8-1dd12edb784e
                 Name: New group
                 AgentSettings:
                     Height: 1.0
